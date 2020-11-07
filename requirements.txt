@@ -39,7 +39,7 @@ jsonpointer==2.0
 MarkupSafe==1.0
 mercurial==3.5.2
 mock==2.0.0
-numpy==1.11.1
+numpy==1.16.1
 oauthlib==2.0.6
 olefile==0.44
 opencv-python==3.3.0.9
